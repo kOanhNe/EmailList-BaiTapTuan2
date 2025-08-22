@@ -24,7 +24,7 @@ EmailListApp/
     └── thanks.jsp
 ```
 
-## Link đã deloy web: 
+## Link đã deloy web bằng RENDER: https://emaillist-bttuan2.onrender.com
 
 ## Để chạy chương trình cần:
 
